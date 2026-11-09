@@ -16,12 +16,12 @@ Voici quelques projets sur lesquels j’ai travaillé :
 
 | Nom du Projet | Description | Lien | GitHub |
 |-----------------------|--------------------------------------|----------------------|---------------------|
-| Portfolio | Mon portfolio personnel ! Il présente les projets que j'ai réalisés et les compétences que j'ai acquises | [elie-dev.fr](https://elie-dev.fr) | [github.com/Elicopter78/PortfolioV2](https://github.com/Elicopter78/PortfolioV2) |
+| Portfolio | Mon portfolio personnel ! Il présente les projets que j'ai réalisés et les compétences que j'ai acquises | [elie-dev.fr](https://elie-dev.fr) | [github.com/Elicopter78/PortfolioV2](https://github.com/UncodingShrimp/PortfolioV2) |
 | CQL Interactive | CQL Interactive est un groupe rassemblant plusieurs jeux vidéos en ligne comme [C Quoi Le Jeu](https://cquoilejeu.fr). | [cql-interactive.fr](https://cql-interactive.fr) | [github.com/CQL-Interactive](https://github.com/CQL-Interactive) |
 | Bots Caaqlojin | Les bots Discord Caaqlojin (Caaqlojin, CaaqlojinAI et Caaqlojin - Sondages) sont des bots faits pour le serveur de CQL Interactive. | [Discord](https://discord.gg/Evu8WXm27z) | / |
-| MoyenneExpress | MoyenneExpress est l'outil fait pour calculer votre moyenne générale ! Disponible sur Windows et macOS. | [github.com/Elicopter78/MoyenneExpress/releases/latest](https://github.com/Elicopter78/MoyenneExpress/releases/latest) | [github.com/Elicopter78/MoyenneExpress](https://github.com/Elicopter78/MoyenneExpress) |
-| Décompte Nouvel An | Un décompte simple et efficace vers le nouvel an. | [new-year.elie-dev.fr](https://new-year.elie-dev.fr) | [github.com/Elicopter78/DecompteNouvelAn](https://github.com/Elicopter78/DecompteNouvelAn) |
-| Pissenlit | Bot Discord avec des commandes funs pour s'amuser entre amis et animer votre serveur Discord. | [github.com/Elicopter78/Pissenlit](https://github.com/Elicopter78/Pissenlit) | [github.com/Elicopter78/Pissenlit](https://github.com/Elicopter78/Pissenlit) |
+| MoyenneExpress | MoyenneExpress est l'outil fait pour calculer votre moyenne générale ! Disponible sur Windows et macOS. | [github.com/Elicopter78/MoyenneExpress/releases/latest](https://github.com/UncodingShrimp/MoyenneExpress/releases/latest) | [github.com/Elicopter78/MoyenneExpress](https://github.com/UncodingShrimp/MoyenneExpress) |
+| Décompte Nouvel An | Un décompte simple et efficace vers le nouvel an. | [new-year.elie-dev.fr](https://new-year.elie-dev.fr) | [github.com/Elicopter78/DecompteNouvelAn](https://github.com/UncodingShrimp/DecompteNouvelAn) |
+| Pissenlit | Bot Discord avec des commandes funs pour s'amuser entre amis et animer votre serveur Discord. | [github.com/Elicopter78/Pissenlit](https://github.com/UncodingShrimp/Pissenlit) | [github.com/Elicopter78/Pissenlit](https://github.com/UncodingShrimp/Pissenlit) |
 
 ---
 
