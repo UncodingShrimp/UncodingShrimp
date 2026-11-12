@@ -38,3 +38,6 @@ Voici quelques projets sur lesquels j’ai travaillé :
 💬 Discord : [@elie.off](https://discordapp.com/users/1430155559197216839)
 
 ---
+
+## Je suis également présent sur /dev/null !
+[![/dev/null activity](https://dev-null.sh/@UncodingShrimp/graph.svg?theme=dark)](https://dev-null.sh/@UncodingShrimp)
